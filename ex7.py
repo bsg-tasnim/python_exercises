@@ -14,4 +14,3 @@ print("Alternate Primes: ", prime[::2])
 
 
 
-
