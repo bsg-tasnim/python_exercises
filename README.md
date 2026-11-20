@@ -169,12 +169,12 @@ The repository is organized to keep Python exercises, CSV validation files, and 
 ```text
 program/
 │
-├── ex1.py
-├── ex2.py
-├── ex3.py
-├── ex4.py
+├── alternate_prime.py
+├── anagram.py
+├── character_count_list.py
+├── common_key_dictionary.py
 ├── ...
-├── ex9.py
+├── swap.py
 │
 ├── valid.py
 ├── test_data.csv
